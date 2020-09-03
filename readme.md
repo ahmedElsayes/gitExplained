@@ -1,1 +1,1 @@
-this is a tutorial on version control git.
+this is a tutorial on version control git using different commands.
