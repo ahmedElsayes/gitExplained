@@ -1,1 +1,1 @@
-console.log("work hard");
+console.log("work smart");
