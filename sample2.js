@@ -1,1 +1,1 @@
-console.log("keep programming practice");
+console.log("keep the habit of programming practice");
